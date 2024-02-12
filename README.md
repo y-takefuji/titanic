@@ -8,7 +8,7 @@ The goal of machine learning is to create input-output function
 f: y=f(X) where y and X (X=x1,x2,...,xn) are output and inputs respectively. 
 We would like to predict y values using X values by forming function f.
 
-<img src='https://github.com/ytakefuji/titanic/raw/master/y%3Df(X).png' height=400 width=600>
+<img src='https://github.com/y-takefuji/titanic/raw/master/y%3Df(X).png' height=400 width=600>
 
 ----------------------------
 titanic.csv is a dataset with 13 parameters (row.names,pclass,survived,name,age,embarked,home.dest,room,ticket,boat,sex). "survived" is the output y to be predicted and 12 parameters are inputs X. pandas is a library to import titanic.csv data in Python:
